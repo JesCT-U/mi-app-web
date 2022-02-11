@@ -17,7 +17,7 @@ function insertarCategoria(categoria){
 
 function dibujarCategoria(){
     let allCategorias = [
-        "Alquiler", "Comida", "Diversion", "Higiene", "Mascotas", "Salud"
+        "Alquiler", "Comida", "Diversion", "Higiene", "Mascotas", "Salud","Espiritual"
     ]
 
     allCategorias.forEach(element => {
